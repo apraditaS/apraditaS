@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+### I'm Apradita Sasi Kirana
+
 <!--
 **apraditaS/apraditaS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on **School Project**
+- 🌱 I’m currently learning **Web Development** (HTML, CSS, JavaScript, PHP, MySQL)
+- 💬 Ask me about _Project sekolah_, _Pemrograman Web dasar_, _Database MySQL_
+- 📫 How to reach me: [**My Instagram**](https://www.instagram.com/apradita_a?igsh=MzRlODBiNWFlZA==), [**My Email**](mailto:apraditasasikirana@gmail.com)
